@@ -1,0 +1,18 @@
+Analysis for PyCity Schools
+
+1) School spending and performance:
+
+We can notice from the results that schools with less spending performed better than schools with more spending. 
+The schools in spending range ($645-675) the overall passing percentage is 73.65%.
+The schools in spending range (<$585) the overall passing percentage is 95.03%.
+
+2) School size and performance 
+
+We can see from the data that small and medium size school performe better than large schools.
+The school size less than 2000 students the overall passing rate is 94%-95% while the large schools above 2000 students scored 76.36% as overall passing rate.
+
+
+3) School Type and peroformance 
+
+From the provided sample, the Charter schools performance is overall better than District schools.
+The overall passing rate for Chartr schools is 95.10% while the District school overall passing rate is 73.67%.  
